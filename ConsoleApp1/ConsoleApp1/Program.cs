@@ -2,19 +2,19 @@
 
 namespace ConsoleApp1
 {
-    class Program : ChildClass
+    class Program : OperandClass
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("------------");
             Console.WriteLine("------------");
-            Console.WriteLine("Call ChildClass");
+            Console.WriteLine("Call OperandClass");
             Console.WriteLine("------------");
             Console.WriteLine("------------");
            
             Program p = new();
-            p.ChildMain();
+            p.OperandMain();
 
         }
     }

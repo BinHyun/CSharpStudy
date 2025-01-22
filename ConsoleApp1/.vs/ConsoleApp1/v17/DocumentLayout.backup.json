@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\CSharpStudy\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\operandclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\operandclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\loopclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\loopclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,40 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChildClass.cs",
-              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\ChildClass.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ChildClass.cs",
-              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\ChildClass.cs",
-              "RelativeToolTip": "ConsoleApp1\\ChildClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OperandClass.cs",
+              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\OperandClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\OperandClass.cs",
+              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\OperandClass.cs",
+              "RelativeToolTip": "ConsoleApp1\\OperandClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:27:03.049Z",
+              "WhenOpened": "2025-01-22T15:26:55.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "LoopClass.cs",
+              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\LoopClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LoopClass.cs",
+              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\LoopClass.cs",
+              "RelativeToolTip": "ConsoleApp1\\LoopClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:14:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:20:31.288Z",
+              "WhenOpened": "2025-01-22T15:08:31.943Z",
               "EditorCaption": ""
             }
           ]
