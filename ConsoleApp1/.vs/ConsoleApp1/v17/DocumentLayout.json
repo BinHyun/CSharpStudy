@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\dev\\CSharpStudy\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\privatethisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\privatethisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\exceptionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\exceptionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\robotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\robotclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\typeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\typeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\dev\\csharpstudy\\consoleapp1\\consoleapp1\\catclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B25B59-D0D2-418A-94E6-9677A0CE7D3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\catclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrivateThisClass.cs",
-              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\PrivateThisClass.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\PrivateThisClass.cs",
-              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\PrivateThisClass.cs",
-              "RelativeToolTip": "ConsoleApp1\\PrivateThisClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "ExceptionsClass.cs",
+              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\ExceptionsClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ExceptionsClass.cs",
+              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\ExceptionsClass.cs",
+              "RelativeToolTip": "ConsoleApp1\\ExceptionsClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:43:54.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TypeClass.cs",
-              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\TypeClass.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\TypeClass.cs",
-              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\TypeClass.cs",
-              "RelativeToolTip": "ConsoleApp1\\TypeClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:43:21.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CatClass.cs",
-              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\CatClass.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\CatClass.cs",
-              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\CatClass.cs",
-              "RelativeToolTip": "ConsoleApp1\\CatClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:39:17.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RobotClass.cs",
-              "DocumentMoniker": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\RobotClass.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\RobotClass.cs",
-              "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\RobotClass.cs",
-              "RelativeToolTip": "ConsoleApp1\\RobotClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:46:08.512Z",
+              "WhenOpened": "2025-01-27T12:18:02.704Z",
               "EditorCaption": ""
             },
             {
@@ -96,9 +45,9 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\dev\\CSharpStudy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:08:31.943Z",
+              "WhenOpened": "2025-01-27T11:36:21.741Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace ConsoleApp1
 {
@@ -29,9 +30,41 @@ namespace ConsoleApp1
             cleanRobot.Clean();
             */
 
+            /*
             PrivateThisClass pt = new PrivateThisClass();
             pt.SetName("김빈현");
             Console.WriteLine("설정한 이름은 " + pt.GetName() + " 입니다.");
+            */
+
+            /*
+            ArrayClass ar = new ArrayClass();
+            ar.Array1();
+            ar.Array2();
+            ar.Array3();
+            ar.Array4();
+            */
+
+            /*
+            CollectionClass cl = new CollectionClass();
+            ArrayList clList = cl.ArrayList();
+
+            Console.WriteLine("clList의 갯수 ==> " + clList.Count);
+            Console.WriteLine("---------------------------------");
+            for (var i = 0; i < clList.Count; i++)
+            {
+                Console.WriteLine(i + ": " + clList[i]);
+            }
+            */
+
+            /*
+            CollectionClass cl = new CollectionClass();
+            Hashtable htTable = cl.Hashtable();
+            
+            Console.WriteLine(htTable["apple"]);
+            */
+
+            ExceptionsClass ex = new ExceptionsClass();
+            ex.ExceptionsMain();
         }
     }
 }
